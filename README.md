@@ -22,7 +22,7 @@ I'm Tech Lead, Full-Stack Developer working in Lviv, Ukraine.
 ### Projects
 
 <p align = "center">
-  <a href="https://github.com/demivan/fluent-vue">
+  <a href="https://github.com/demivan/fluent-vue" target="_blank">
    <img src = "https://github-readme-stats.vercel.app/api/pin?username=demivan&repo=fluent-vue&show_icons=true&theme=vue-dark" width = 400>
   </a>
 </p>
