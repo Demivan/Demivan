@@ -11,7 +11,7 @@ I'm Tech Lead, Full-Stack Developer working in Lviv, Ukraine.
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-ArchLinux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a&labelColor=273849)
 ![](https://img.shields.io/badge/Shell-Fish-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=2bbc8a&labelColor=273849)
-![](https://img.shields.io/badge/Editor-Rider-informational?style=for-the-badge&logo=rider&logoColor=white&color=2bbc8a&labelColor=273849)
+![](https://img.shields.io/badge/Editor-JetBrains%20Rider-informational?style=for-the-badge&logo=rider&logoColor=white&color=2bbc8a&labelColor=273849)
 ![](https://img.shields.io/badge/Font-JetBrains%20Mono-informational?style=for-the-badge&logo=jetbrains&logoColor=white&color=2bbc8a&labelColor=273849)
 
 ![](https://img.shields.io/badge/-C%23-273849?style=for-the-badge&logo=csharp)
