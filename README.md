@@ -31,7 +31,7 @@ I'm Tech Lead, Full-Stack Developer working in Lviv, Ukraine.
 
 ### Github stats
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=demivan&show_icons=true&theme=vue-dark" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=demivan&theme=vue-dark" width = 400>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=demivan&show_icons=true&theme=vue-dark" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=demivan&theme=vue-dark" width="400">
 </p>
