@@ -1,8 +1,9 @@
 ## Hi 👋, I'm Ivan Demchuk
 
-I'm Tech Lead, Full-Stack Developer working in Lviv, Ukraine.
+I'm Tech Lead, Full-Stack Developer working in Lviv, Ukraine.  
+[Vitest](https://github.com/vitest-dev/) team member.
 
- - 🔭 I'm currently working on Vue.js i18n plugin - `fluent-vue`  
+- 🔭 I'm currently working on Vue.js i18n plugin - `fluent-vue`  
   GitHub: [fluent-vue](https://github.com/demivan/fluent-vue)  
   Docs: [fluent-vue.demivan.me](https://fluent-vue.demivan.me)
  - 🌱 I'm currently learning Rust, Emacs, and Kubernetes
