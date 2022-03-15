@@ -1,5 +1,7 @@
 ## Hi 👋, I'm Ivan Demchuk
 
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
 I'm Tech Lead, Full-Stack Developer working in Lviv, Ukraine.  
 [Vitest](https://github.com/vitest-dev/) core team member.
 
