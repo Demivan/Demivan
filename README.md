@@ -6,7 +6,7 @@ I'm Tech Lead, Full-Stack Developer working in Lviv, Ukraine.
 [Vitest](https://github.com/vitest-dev/) core team member.
 
 - 🔭 I'm currently working on Vue.js i18n plugin - `fluent-vue`  
-  GitHub: [fluent-vue](https://github.com/demivan/fluent-vue)  
+  GitHub: [fluent-vue](https://github.com/fluent-vue/fluent-vue)  
   Docs: [fluent-vue.demivan.me](https://fluent-vue.demivan.me)
  - 🌱 I'm currently learning Rust, Emacs, and Kubernetes
  - 💬 Ask me about Vue, TS, C#, Linux and Cosmere <img src="https://user-images.githubusercontent.com/2339406/126692384-17784667-7b16-434e-8b54-48b5e5ec614e.png" width="20" height="20" valign="middle">
@@ -29,8 +29,8 @@ I'm Tech Lead, Full-Stack Developer working in Lviv, Ukraine.
 ### Projects
 
 <p align = "center">
-  <a href="https://github.com/demivan/fluent-vue" target="_blank">
-   <img src = "https://github-readme-stats.vercel.app/api/pin?username=demivan&repo=fluent-vue&show_icons=true&theme=vue-dark" width = 400>
+  <a href="https://github.com/fluent-vue/fluent-vue" target="_blank">
+   <img src = "https://github-readme-stats.vercel.app/api/pin?username=fluent-vue&repo=fluent-vue&show_icons=true&theme=vue-dark" width = 400>
   </a>
 </p>
 
