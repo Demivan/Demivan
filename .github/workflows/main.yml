@@ -28,7 +28,7 @@ jobs:
           user: demivan
           template: classic
           base: header, activity, community, repositories, metadata
-          base_indepth: yes
+          config_display: collumns
           config_timezone: Europe/Kiev
           plugin_introduction: yes
           plugin_introduction_title: yes
